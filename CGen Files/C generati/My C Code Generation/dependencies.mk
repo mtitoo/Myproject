@@ -1,0 +1,4 @@
+SRC = Webpublish.c
+LVPATH = F:\PROGRA~1\NATION~1\LABVIE~1
+LVPROJ = ..\..\..\CGENER~1.LVP
+BUILDSPEC = My C Code Generation
